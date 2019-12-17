@@ -1,0 +1,11 @@
+"use strict";
+console.log("hello world");
+console.log("hello" + "today!");
+var found = true;
+var grade = 99;
+var firstname = "soen";
+var lastname = "384";
+var data = 50;
+console.log(found);
+console.log("grade is: " + grade);
+console.log("hi " + firstname + " " + lastname);
